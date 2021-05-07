@@ -1,0 +1,11 @@
+A haunted swamp environment with atmospheric effects.
+
+Load the "Haunted_Swamp.unity" for an example scene, or drag an asset from the Prefabs folder from the Project window into the Hierarchy window.
+
+When making your own swamp terrain, you'll want to choose "Paint Height" (the second icon), and then put a height value for the depth of your swamp pools (try a value of 1) and then choose "Flatten". Then choose "Raise / Lower Terrain" (first icon) and click on you terrain with the left mouse button while holding shift to create the swamp pools. Once you've done this, place the swamp water prefab of the correct size (small, medium and large ones are provided) into these terrain holes (these water prefabs are already hooked up with bubbles and steam).
+
+Have fun!
+
+Thanks for purchasing this asset, please consider rating or writing a review about it. If you have any questions then please get in touch at bendurrant@rivermillstudios.com
+
+
